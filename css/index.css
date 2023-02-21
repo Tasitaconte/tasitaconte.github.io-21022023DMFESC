@@ -1,0 +1,10 @@
+body{
+    background-color: bisque;
+}
+
+.parrafo{
+    font-size: 22px;
+    color: rgb(0, 0, 0);
+    text-align: justify;
+    text-transform: initial;
+}
